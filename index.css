@@ -63,3 +63,8 @@ body {
   text-align: center;
   line-height: 40px;
 }
+.social:active {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+  font-weight: 600;
+}
